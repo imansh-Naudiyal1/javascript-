@@ -38,4 +38,5 @@ let lan = ["js","ruby","java","python"];
 //  lan.length = 7;
 //  console.log("after increasing the length: "  , lan);
 lan.length = 15;
-console.log("after decreasing the length: "  , lan);
+// console.log("after decreasing the length: "  , lan);
+
